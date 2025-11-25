@@ -14,9 +14,8 @@ namespace ConsoleApp15
          
             Console.WriteLine("!!!!!");
             Console.WriteLine("***");
-            Console.WriteLine("***");
-            Console.WriteLine("***");
-            Console.WriteLine("***");
+            Console.WriteLine("NE'");
+           
         }
     }
 }
