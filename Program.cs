@@ -11,6 +11,12 @@ namespace ConsoleApp15
         static void Main(string[] args)
         {
             Console.WriteLine("hello 25-11");
+            Console.WriteLine("hello 25-11");
+            Console.WriteLine("hello 25-11");
+            Console.WriteLine("hello 25-11");
+            Console.WriteLine("hello 25-11");
+            Console.WriteLine("hello 25-11");
+            Console.WriteLine("!!!!!");
         }
     }
 }
